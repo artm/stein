@@ -3,11 +3,11 @@
 A micro gem that allows [Main][] modes be written in separate files and magically
 stitched together.
 
-This may become convenient whem your utility becomes monstrously large
-(*8-foot-tall (2.4 m), hideously ugly creation, with translucent yellowish skin
-pulled so taut over the body that it "barely disguised the workings of the
-vessels and muscles underneath"; watery, glowing eyes, flowing black hair,
-black lips, and prominent white teeth.*)
+This may become convenient whem your utility becomes monstrously large:
+> 8-foot-tall (2.4 m), hideously ugly creation, with translucent yellowish skin
+> pulled so taut over the body that it "barely disguised the workings of the
+> vessels and muscles underneath"; watery, glowing eyes, flowing black hair,
+> black lips, and prominent white teeth.
 
 [Main]: https://github.com/ahoward/main
 
