@@ -32,6 +32,7 @@ Start with the main "body" of the utility:
 **bin/frankenstein**
 
 ```
+#!/usr/bin/env ruby
 require 'main'
 require 'stein'
 
