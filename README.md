@@ -41,7 +41,7 @@ $LIB_DIR = File.dirname(File.dirname __FILE__) + '/lib'
 Main {
   description "Show how to build a monster utility from a bunch of modes"
   def run ; help! ; end
-  Stein.extend self, $LIB_DIR + 'modes'
+  Stein.extend self, $LIB_DIR + '/modes'
 }
 ```
 
