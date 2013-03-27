@@ -62,6 +62,15 @@ end
 
 That's it.
 
+### API Reference
+
+**Stein.mode mode_name, &block**: can be used in the top level of a mode-file (a
+ruby file in modes directory). It delegates itself to Main DSL's `mode`,
+eventually.
+
+**Stein.extend main_module, modes_directory**: loads all modes definitions from
+the directory.
+
 ## Acknowledgements
 
 Thanks to Ara T. Howard for Main.
